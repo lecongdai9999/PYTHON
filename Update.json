@@ -1,4 +1,4 @@
 {
-  "Android": { "Version":"1.0.8", "Date":20201030},
-  "iOS": { "Version":"1.1.3", "Date": 20201101}
+  "Android": { "Version":"1.0.8", "Date":20201030, "iSnake":"NO"},
+  "iOS": { "Version":"1.1.3", "Date": 20201101, "iSnake":"NO"}
 }
