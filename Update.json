@@ -1,4 +1,4 @@
 {
-  "Android": { "Version":"1.0.2", "Date":20201201, "iSnake":"OK", "fGroup":"https://www.facebook.com/groups/444854843209226"},
-  "iOS": { "Version":"1.2.5", "Date": 20201101, "iSnake":"OK", "fGroup":"https://www.facebook.com/groups/444854843209226"}
+  "Android": { "Version":"1.0.2", "Date":20201201, "iSnake":"OK", "fGroup":"https://www.facebook.com/groups/444854843209226", "fYoutube":"https://youtu.be/R0o_5y5rO9E", "fAppLink":"https://play.google.com/store/apps/details?id=com.UFOProduction.BoombingBird", "fAppIcon":"https://play-lh.googleusercontent.com/DSfcoFEEnLh-q-cvGUH6erAjQUXPk_Eot4gq8AXs9dBoZqftor2lLYa2uiqXLfgT6w=s180"},
+  "iOS": { "Version":"1.2.5", "Date": 20201101, "iSnake":"OK", "fGroup":"https://www.facebook.com/groups/444854843209226", "fYoutube":"https://youtu.be/R0o_5y5rO9E", "fAppLink":"https://apps.apple.com/app/bombing-bird/id1540100230", "fAppIcon":"https://play-lh.googleusercontent.com/DSfcoFEEnLh-q-cvGUH6erAjQUXPk_Eot4gq8AXs9dBoZqftor2lLYa2uiqXLfgT6w=s180"}
 }
