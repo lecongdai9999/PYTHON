@@ -1,4 +1,4 @@
 {
   "Android": { "Version":"1.0.4", "Date":20201201, "iSnake":"OK", "fGroup":"https://www.facebook.com/groups/444854843209226", "fYoutube":"https://youtu.be/OiswstjudG8", "fAppLink":"https://play.google.com/store/apps/details?id=com.aiproduct.snake", "fAppIcon":"https://raw.githubusercontent.com/lecongdai9999/PYTHON/main/Icon.png","initGameSettingcount":5},
-  "iOS": { "Version":"1.2.8", "Date": 20201101, "iSnake":"OK", "fGroup":"https://www.facebook.com/groups/444854843209226", "fYoutube":"https://youtu.be/OiswstjudG8", "fAppLink":"https://apps.apple.com/app/world-snake/id1260261418", "fAppIcon":"https://raw.githubusercontent.com/lecongdai9999/PYTHON/main/Icon.png","initGameSettingcount":5}
+  "iOS": { "Version":"1.2.7", "Date": 20201101, "iSnake":"OK", "fGroup":"https://www.facebook.com/groups/444854843209226", "fYoutube":"https://youtu.be/OiswstjudG8", "fAppLink":"https://apps.apple.com/app/world-snake/id1260261418", "fAppIcon":"https://raw.githubusercontent.com/lecongdai9999/PYTHON/main/Icon.png","initGameSettingcount":5}
 }
