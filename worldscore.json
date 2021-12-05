@@ -35,9 +35,9 @@
 "NZ": { "NAME":"McCreamy", "SCORE":7104, "NET":3},
 "PE": { "NAME":"Golemcito Games", "SCORE":8102, "NET":3},
 "CN": { "NAME":"冯提莫", "SCORE":11268, "NET":3},
-"**": { "NAME":"vennguyen2005", "SCORE":16729, "NET":1},
-"*1": { "NAME":"Mst46mst", "SCORE": 14142, "NET":1},
-"*2": { "NAME":"sacha.hope", "SCORE": 13091, "NET":1},
-"*6": { "NAME":"Jaan Rahmani", "SCORE": 11933, "NET":1},
-"*8": { "NAME":"+Josh+54", "SCORE": 11863, "NET":1}
+"+0": { "NAME":"vennguyen2005", "SCORE":16729, "NET":1},
+"+1": { "NAME":"Mst46mst", "SCORE": 14142, "NET":1},
+"+2": { "NAME":"sacha.hope", "SCORE": 13091, "NET":1},
+"+6": { "NAME":"Jaan Rahmani", "SCORE": 11933, "NET":1},
+"+8": { "NAME":"+Josh+54", "SCORE": 11863, "NET":1}
 }
